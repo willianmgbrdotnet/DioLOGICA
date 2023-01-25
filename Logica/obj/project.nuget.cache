@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j/vcD05ViFMccW0VVgjtGsTRTCYR/TY3w9Dn/1/xQezP3eqG6gvY3781+GskST5IKPFTteVJ8lM/ML48FBkxDw==",
+  "dgSpecHash": "K7bQH3AafI9SXgsKg5S/uLXkpyHXn1H9ZfzN6Q+ENA7Og/iOE5ofCV1WJJSfDjJuIaGlzTtpptVFGntuPTh0mw==",
   "success": true,
-  "projectFilePath": "C:\\DioLOGICA\\Logica\\Logica.csproj",
+  "projectFilePath": "C:\\DioLOGICA\\logica\\Logica.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

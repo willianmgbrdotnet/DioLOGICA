@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DioLOGICA\\Logica\\Logica.csproj": {}
+    "C:\\DioLOGICA\\logica\\Logica.csproj": {}
   },
   "projects": {
-    "C:\\DioLOGICA\\Logica\\Logica.csproj": {
+    "C:\\DioLOGICA\\logica\\Logica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DioLOGICA\\Logica\\Logica.csproj",
+        "projectUniqueName": "C:\\DioLOGICA\\logica\\Logica.csproj",
         "projectName": "Logica",
-        "projectPath": "C:\\DioLOGICA\\Logica\\Logica.csproj",
+        "projectPath": "C:\\DioLOGICA\\logica\\Logica.csproj",
         "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-        "outputPath": "C:\\DioLOGICA\\Logica\\obj\\",
+        "outputPath": "C:\\DioLOGICA\\logica\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

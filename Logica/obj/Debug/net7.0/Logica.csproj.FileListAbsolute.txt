@@ -1,0 +1,15 @@
+C:\DioLOGICA\logica\bin\Debug\net7.0\Logica.exe
+C:\DioLOGICA\logica\bin\Debug\net7.0\Logica.deps.json
+C:\DioLOGICA\logica\bin\Debug\net7.0\Logica.runtimeconfig.json
+C:\DioLOGICA\logica\bin\Debug\net7.0\Logica.dll
+C:\DioLOGICA\logica\bin\Debug\net7.0\Logica.pdb
+C:\DioLOGICA\logica\obj\Debug\net7.0\Logica.csproj.AssemblyReference.cache
+C:\DioLOGICA\logica\obj\Debug\net7.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\DioLOGICA\logica\obj\Debug\net7.0\Logica.AssemblyInfoInputs.cache
+C:\DioLOGICA\logica\obj\Debug\net7.0\Logica.AssemblyInfo.cs
+C:\DioLOGICA\logica\obj\Debug\net7.0\Logica.csproj.CoreCompileInputs.cache
+C:\DioLOGICA\logica\obj\Debug\net7.0\Logica.dll
+C:\DioLOGICA\logica\obj\Debug\net7.0\refint\Logica.dll
+C:\DioLOGICA\logica\obj\Debug\net7.0\Logica.pdb
+C:\DioLOGICA\logica\obj\Debug\net7.0\Logica.genruntimeconfig.cache
+C:\DioLOGICA\logica\obj\Debug\net7.0\ref\Logica.dll
